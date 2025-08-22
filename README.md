@@ -1,12 +1,20 @@
 # instgaram-Reporting
 It's a complaint tool for Instagram and is quite effective. You should use it within ethical limits. Everything is the responsibility of the user.
-
-ㅤㅤㅤㅤ
+--------------------------------------------------------------------------------------------------------------------------------------------------
 İnstagram İçin Bir Şikayet Gönderme Aracıdır Ve Gayet Etkilidir. Etik Sınırlar İçinde Kullanmanız Gereklidir Her Şey Kullanıcı Sorumluluğundadır.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 
 
 
 Çalıştırmak İçin - To Run
+
+
+
 
 
 
@@ -16,7 +24,8 @@ cd ~/-nstgaram-Reporting/-nstgaram-Reporting && python3 -m venv venv && source v
 
 ㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤ
+ㅤㅤ
+ㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤ
 
 Termux : 
