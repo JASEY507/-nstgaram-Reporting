@@ -4,7 +4,9 @@ It's a complaint tool for Instagram and is quite effective. You should use it wi
 İnstagram İçin Bir Şikayet Gönderme Aracıdır Ve Gayet Etkilidir. Etik Sınırlar İçinde Kullanmanız Gereklidir Her Şey Kullanıcı Sorumluluğundadır.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+--------------------
+Bu Projede Bir Hata Yada Ekelencek Bir Şey Görürseniz İnstagram: @soytariomer.17 DM Üzerinden İletişime Geçebilirsiniz.    --  If you see an error or something to be added in this project, you can contact me via DM on Instagram: @soytariomer.17.
+----------
 
 
 
