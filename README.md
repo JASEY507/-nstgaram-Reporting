@@ -19,13 +19,13 @@ cd ~/-nstgaram-Reporting/-nstgaram-Reporting && python3 -m venv venv && source v
 
 Termux : 
 
-pkg update -y
-pkg upgrade -y
-pkg install git python -y
-git clone https://github.com/JASEY507/-nstgaram-Reporting
-cd -nstgaram-Reporting
-pip install requests colorama
-python instareporting.py
+1-pkg update -y && pkg upgrade -y
+
+2-pkg install git python -y
+
+3-cd -nstgaram-Reporting
+
+4-pip install requests colorama
 
 
 
