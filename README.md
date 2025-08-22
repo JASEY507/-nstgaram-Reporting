@@ -9,7 +9,10 @@ It's a complaint tool for Instagram and is quite effective. You should use it wi
 
 
 Linux : 
-cd ~git clone https://github.com/JASEY507/-nstgaram-Reporting
+
+
+cd ~
+git clone https://github.com/JASEY507/-nstgaram-Reporting
 cd -nstgaram-Reporting/-nstgaram-Reporting
 python3 -m venv venv
 source venv/bin/activate
