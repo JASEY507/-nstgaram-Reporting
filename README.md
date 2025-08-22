@@ -10,21 +10,16 @@ It's a complaint tool for Instagram and is quite effective. You should use it wi
 
 Linux : 
 
-
-cd ~
-git clone https://github.com/JASEY507/-nstgaram-Reporting
-cd -nstgaram-Reporting/-nstgaram-Reporting
-python3 -m venv venv
-source venv/bin/activate
-pip install requests colorama
-python3 instareporting.py
+cd ~/-nstgaram-Reporting/-nstgaram-Reporting && python3 -m venv venv && source venv/bin/activate && pip install requests colorama && python3 instareporting.py
 
 ㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤ
 
-Termux : pkg update -y
+Termux : 
+
+pkg update -y
 pkg upgrade -y
 pkg install git python -y
 git clone https://github.com/JASEY507/-nstgaram-Reporting
