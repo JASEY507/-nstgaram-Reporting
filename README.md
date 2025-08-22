@@ -50,3 +50,5 @@ Termux :
 
 
 
+Çalıştırma Videosu:                   https://youtu.be/mnjFeQWFT-A?si=Ch7DoFYbCvRUdJA-
+Operation Video  :                      
