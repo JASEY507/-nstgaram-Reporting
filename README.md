@@ -52,3 +52,11 @@ Termux :
 
 Çalıştırma Videosu:                   https://youtu.be/mnjFeQWFT-A?si=Ch7DoFYbCvRUdJA-
 Operation Video  :                      
+
+
+
+İnstagram:https://www.instagram.com/soytariomer.17
+
+Youtube:https://www.youtube.com/@soytariomer.17
+
+Tiktok:https://tiktok.com/@soytariomer.17
